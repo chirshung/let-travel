@@ -108,90 +108,11 @@
               </div>
             </div>
           </div>			    			    			
-        </div>    
-
-        <!-- <div class="isotope-container row row10">
-          <div class="grid-sizer col-mob-12 col-xs-6 col-sm-3"></div>
-          <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-6">
-            <a class="black-hover" href="detail.html">
-              <img class="img-full img-responsive" src="/assets/img/demo/gal_6.jpg" alt="">
-              <div class="tour-layer delay-1"></div>
-              <div class="vertical-align">
-                <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                <h4 class="color-white"><b>tours in monaco</b></h4>
-              </div>
-            </a>
-          </div>  
-          <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-6">
-            <a class="black-hover" href="detail.html">
-              <img class="img-full img-responsive" src="/assets/img/demo/gal_6.jpg" alt="">
-              <div class="tour-layer delay-1"></div>
-              <div class="vertical-align">
-                <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                <h4 class="color-white"><b>tours in monaco</b></h4>
-              </div>
-            </a>
-          </div>  
-          <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-6">
-            <a class="black-hover" href="detail.html">
-              <img class="img-full img-responsive" src="/assets/img/demo/gal_1.jpg" alt="">
-              <div class="tour-layer delay-1"></div>
-              <div class="vertical-align">
-                <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                <h4 class="color-white"><b>tours in monaco</b></h4>
-              </div>
-            </a>
-          </div>                        
-                              
-          <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-6">
-            <a class="black-hover" href="detail.html">
-              <img class="img-full img-responsive" src="/assets/img/demo/gal_7.jpg" alt="">
-              <div class="tour-layer delay-1"></div>
-              <div class="vertical-align">
-                <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                <h4 class="color-white"><b>tours in monaco</b></h4>
-              </div>
-            </a>
-          </div>   
-            
-          <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-6">
-            <a class="black-hover" href="detail.html">
-              <img class="img-full img-responsive" src="/assets/img/demo/gal_6.jpg" alt="">
-              <div class="tour-layer delay-1"></div>
-              <div class="vertical-align">
-                <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                <h4 class="color-white"><b>tours in monaco</b></h4>
-              </div>
-            </a>
-          </div>          
-               
-          <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
-            <a class="black-hover" href="detail.html">
-              <img class="img-full img-responsive" src="/assets/img/demo/gal_8.jpg" alt="">
-              <div class="tour-layer delay-1"></div>
-              <div class="vertical-align">
-                <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                <h4 class="color-white"><b>tours in monaco</b></h4>
-              </div>
-            </a>
-          </div>
-          <div class="item gal-item col10 col-mob-12 col-xs-6 col-sm-3">
-            <a class="black-hover" href="detail.html">
-              <img class="img-full img-responsive" src="/assets/img/demo/gal_9.jpg" alt="">
-              <div class="tour-layer delay-1"></div>
-              <div class="vertical-align">
-                <div class="date color-white">July <strong>19th</strong> to July <strong>26th</strong></div>
-                <h4 class="color-white"><b>tours in monaco</b></h4>
-              </div>
-            </a>
-          </div>
-                   
-
-        </div>         -->
+        </div>            
       </div>
 
-      <!-- <div class="container-fluid">	 	 
-      </div> -->
+      <div class="container-fluid">	 	 
+      </div>
     </div>
 
     
